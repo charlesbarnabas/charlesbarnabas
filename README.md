@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesbarnabas&label=Profile%20views&color=0e75b6&style=flat" alt="charlesbarnabas" /> </p>
 
-- 🌱 I’m currently learning **Mobile Dev**
+- 🌱 I’m currently learning **Mobile Dev with React Native**
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **charlesrickybarnabas@gmail.com**
 
-- ⚡ Fun fact **I'm an ENFJ**
+- ⚡ Fun fact **I have a good game sense**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
