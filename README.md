@@ -54,7 +54,9 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9uZ2FrbGlrdG04NDl5NjB0ZDBxd2tzNGw2MTl5dHA2NjBjdGhuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KcesdHR3mn0VWq5qMr/giphy.gif"  />
+
+###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -65,10 +67,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9uZ2FrbGlrdG04NDl5NjB0ZDBxd2tzNGw2MTl5dHA2NjBjdGhuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KcesdHR3mn0VWq5qMr/giphy.gif"  />
 
 ###
 
