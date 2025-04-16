@@ -9,6 +9,10 @@
 
 ###
 
+<h3 align="left">My Top Languages & Tools :</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -39,7 +43,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9uZ2FrbGlrdG04NDl5NjB0ZDBxd2tzNGw2MTl5dHA2NjBjdGhuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KcesdHR3mn0VWq5qMr/giphy.gif"  />
+<h3 align="left">You can hit me on :</h3>
 
 ###
 
@@ -55,10 +59,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charlesbarnabas/charlesbarnabas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charlesbarnabas/charlesbarnabas/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/charlesbarnabas/charlesbarnabas/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/charlesbarnabas/charlesbarnabas/output/snake.svg" alt="Snake animation" />
 
 ###
