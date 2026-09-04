@@ -9,7 +9,11 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXR0ejhwYWQydjVhOXZnaHljcm92ZDJjYzRtZ2c2cnR0MHg5a21sciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif"  />
+  <!-- Top languages (github-readme-stats) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesbarnabas&layout=compact&theme=dracula&langs_count=5&hide_border=false" alt="Top languages" />
+
+  <!-- Trophy (github-profile-trophy) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=charlesbarnabas&theme=dracula&row=1&column=4&margin-w=8&margin-h=8" height="150" alt="Trophy graph" />
 </div>
 
 ###
