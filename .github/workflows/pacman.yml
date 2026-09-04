@@ -22,6 +22,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push pacman-contribution-graph.svg to the master branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
