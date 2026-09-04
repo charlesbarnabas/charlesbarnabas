@@ -9,18 +9,18 @@
 ###
 
 <div align="center">
-  <!-- Top languages (github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesbarnabas&layout=compact&theme=dracula&langs_count=5&hide_border=false" alt="Top languages" />
-
-  <!-- Trophy (github-profile-trophy) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=charlesbarnabas&theme=dracula&row=1&column=4&margin-w=8&margin-h=8" height="150" alt="Trophy graph" />
+  <!-- Cat GIF -->
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXR0ejhwYWQydjVhOXZnaHljcm92ZDJjYzRtZ2c2cnR0MHg5a21sciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" alt="cat gif" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesbarnabas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=charlesbarnabas&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!-- Top languages (github-readme-stats) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesbarnabas&layout=compact&theme=dracula&langs_count=5&hide_border=false" alt="Top languages" />
+
+  <!-- Trophy (github-profile-trophy) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=charlesbarnabas&theme=dracula&row=1&column=4&margin-w=8&margin-h=8" height="150" alt="Trophy graph" />
 </div>
 
 ###
